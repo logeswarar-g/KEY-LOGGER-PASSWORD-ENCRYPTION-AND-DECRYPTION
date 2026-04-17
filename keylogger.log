@@ -1,0 +1,27 @@
+2025-06-12 12:24:09,506 - INFO - Created new log file: C:\Users\Aditya\Documents\Projects\keylogger-simulator\keylog.txt
+2025-06-12 12:24:09,506 - INFO - Starting keylogger simulator
+2025-06-12 12:24:09,512 - INFO - Keyboard listener started
+2025-06-12 12:31:54,195 - INFO - Using existing log file: C:\Users\Aditya\Documents\Projects\keylogger-simulator\keylog.txt
+2025-06-12 12:31:54,195 - INFO - Starting keylogger simulator
+2025-06-12 12:31:54,201 - INFO - Keyboard listener started
+2025-10-16 17:02:25,603 - INFO - Using existing log file: E:\key-logger\keylogger-simulator\keylog.txt
+2025-10-16 17:02:25,603 - INFO - Starting keylogger simulator
+2025-10-16 17:02:25,615 - INFO - Keyboard listener started
+2025-10-16 21:56:01,468 - INFO - Using existing log file: E:\key-logger\keylogger-simulator\keylog.txt
+2025-10-16 21:56:01,468 - INFO - Starting keylogger simulator
+2025-10-16 21:56:01,495 - INFO - Keyboard listener started
+2026-03-06 12:58:40,748 - INFO - Using existing log file: C:\Users\91893\Desktop\engineering\key-logger - Copy\keylogger-simulator\keylog.txt
+2026-03-06 12:58:40,748 - INFO - Starting keylogger simulator
+2026-03-06 12:58:40,757 - INFO - Keyboard listener started
+2026-03-18 20:02:07,483 - INFO - Using existing log file: C:\Users\91893\Desktop\engineering\key-logger - Copy\keylogger-simulator\keylog.txt
+2026-03-18 20:02:07,484 - INFO - Starting keylogger simulator
+2026-03-18 20:02:07,494 - INFO - Keyboard listener started
+2026-03-25 15:58:40,262 - INFO - Using existing log file: C:\Users\91893\Desktop\engineering\key-logger - Copy\keylogger-simulator\keylog.txt
+2026-03-25 15:58:40,264 - INFO - Starting keylogger simulator
+2026-03-25 15:58:40,281 - INFO - Keyboard listener started
+2026-04-02 13:12:45,787 - INFO - Using existing log file: C:\Users\91893\Desktop\engineering\key-logger - Copy\keylogger-simulator\keylog.txt
+2026-04-02 13:12:45,788 - INFO - Starting keylogger simulator
+2026-04-02 13:12:45,801 - INFO - Keyboard listener started
+2026-04-05 20:26:40,661 - INFO - Using existing log file: C:\Users\91893\Desktop\engineering\key-logger - Copy\keylogger-simulator\keylog.txt
+2026-04-05 20:26:40,662 - INFO - Starting keylogger simulator
+2026-04-05 20:26:40,678 - INFO - Keyboard listener started

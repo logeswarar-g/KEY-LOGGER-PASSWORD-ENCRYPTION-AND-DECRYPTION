@@ -1,0 +1,26 @@
+-------------------------------------------------- 
+[STARTING SETUP] 12-06-2025 12:20:39.93 
+'pyinstaller' is not recognized as an internal or external command,
+operable program or batch file.
+The system cannot find the file specified.
+The operation completed successfully.
+Setup complete! Keylogger will run on next login. 
+[COMPLETED] 12-06-2025 12:21:03.92 
+-------------------------------------------------- 
+[STARTING SETUP] Thu 10/16/2025 17:13:54.17 
+-------------------------------------------------- 
+[STARTING SETUP] 06-03-2026 12:40:34.12 
+'pyinstaller' is not recognized as an internal or external command,
+operable program or batch file.
+The system cannot find the file specified.
+The operation completed successfully.
+Setup complete! Keylogger will run on next login. 
+[COMPLETED] 06-03-2026 12:41:02.75 
+-------------------------------------------------- 
+[STARTING SETUP] 06-03-2026 12:45:37.58 
+'pyinstaller' is not recognized as an internal or external command,
+operable program or batch file.
+The system cannot find the file specified.
+The operation completed successfully.
+Setup complete! Keylogger will run on next login. 
+[COMPLETED] 06-03-2026 12:46:26.91 
